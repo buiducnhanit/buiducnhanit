@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm I'm Bùi Đức Nhân </h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Bùi Đức Nhân </h1></summary>
   </ul>
 </div>
 
